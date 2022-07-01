@@ -1,0 +1,10 @@
+1. Install Python
+   > https://www.python.org/downloads/
+2. Open Command Prompt
+3. Check if Python was installed in your computer
+   > python3 --version
+4. Go to the sabong_scraping folder
+5. Install requirements.txt
+   > pip install -r requirements.txt
+6. Run the web scraper
+   > python main.py
